@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **yamen.a.abdulrahman@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yamenarahman/](https://www.linkedin.com/in/yamenarahman/)
-
 - ⚡ Fun fact **I don't swear while coding..**
 
 <h3 align="left">Connect with me:</h3>
