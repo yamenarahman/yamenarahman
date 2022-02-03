@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yamenarahman" target="blank"><img src="https://img.shields.io/twitter/follow/yamenarahman?logo=twitter&style=for-the-badge" alt="yamenarahman" /></a> </p>
 
-- 🔭 I’m currently working for [Salla](https://github.com/SallaApp)
+- 🔭 I’m currently working for [Foodics](https://github.com/foodics)
 
 - 🌱 I’m currently learning **Software and agile architectures.**
 
