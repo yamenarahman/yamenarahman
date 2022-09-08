@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yamen</h1>
 <h3 align="center">A Software engineer who never stops learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yamenarahman&label=Profile%20views&color=0e75b6&style=flat" alt="yamenarahman" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yamenarahman" alt="yamenarahman" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/yamenarahman" target="blank"><img src="https://img.shields.io/twitter/follow/yamenarahman?logo=twitter&style=for-the-badge" alt="yamenarahman" /></a> </p>
-
 - 🔭 I’m currently working for [Foodics](https://github.com/foodics)
 
 - 🌱 I’m currently learning **Software and agile architectures.**
@@ -16,6 +10,10 @@
 - 📫 How to reach me **yamen.a.abdulrahman@hotmail.com**
 
 - ⚡ Fun fact **I don't swear while coding..**
+
+[![Yamen Ashraf StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7268901&layout=compact)](https://stackoverflow.com/users/7268901/yamen-ashraf)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yamenarahman&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="yamenarahman" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
