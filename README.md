@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Software and agile architectures.**
 
-- 💬 Ask me about **PHP, Laravel, Mysql and Vuejs.**
+- 💬 Ask me about **PHP, Laravel, Mysql, Vuejs and AWS.**
 
 - 📫 How to reach me [Yamen Ashraf](https://linkedin.com/in/yamenarahman)
 
